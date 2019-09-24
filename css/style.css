@@ -42,7 +42,12 @@ figcaption {
   background-size: cover;
 }
 .light-fade{
-  
+background: #f9fbff; /* Old browsers */
+background: -moz-linear-gradient(top,  #f9fbff 1%, #e0e0e0 49%, #e0e0e0 51%, #f4f8f9 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #f9fbff 1%,#e0e0e0 49%,#e0e0e0 51%,#f4f8f9 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #f9fbff 1%,#e0e0e0 49%,#e0e0e0 51%,#f4f8f9 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fbff', endColorstr='#f4f8f9',GradientType=0 ); /* IE6-9 */
+
 }
 
 
