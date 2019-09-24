@@ -49,6 +49,9 @@ background: linear-gradient(to bottom,  #f9fbff 1%,#e0e0e0 49%,#e0e0e0 51%,#f4f8
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9fbff', endColorstr='#f4f8f9',GradientType=0 ); /* IE6-9 */
 
 }
+.medium-fade{
+  
+}
 
 
 /*/////// MEDIA ////////*/
