@@ -215,7 +215,7 @@ header{
   width: 100%;
   z-index: 2;
   border-bottom: 1px solid #ccc;
-  li
+  text-align: center;
 }
 
 
